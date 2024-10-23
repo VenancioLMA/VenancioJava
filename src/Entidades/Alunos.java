@@ -7,7 +7,7 @@ public class Alunos {
     int matricula;
     int idade;
     LocalDate data;
-    public Alunos(String nome, int matricula, int idade, LocalDate data){
+    public Alunos(String nome, int matricula, int idade, int data){
         this.nome = nome;
         this.matricula = matricula;
         this.idade = idade;
