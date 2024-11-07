@@ -14,16 +14,19 @@ public class Alunos {
         this.data = LocalDate.now();
     }
    public String getNome(){
+
         return nome;
    }
-   public int getMatriculaget(){
+   public int getMatricula(){
         return matricula;
 
    }
    public int getIdade(){
+
         return idade;
    }
    public LocalDate getData(){
+
         return data;
    }
 

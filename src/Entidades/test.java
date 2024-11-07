@@ -19,10 +19,6 @@ public class test {
             alunos.add(aluno);
 
         }
-        for (Alunos aluno: alunos) {
-            System.out.println("Nome: " + aluno.getNome() + ", Matricula: ");
-            scanner.close();
-        }
 
 // Vou precisar adicionar um objeto que recebar o Aluno e tenha como criar um aluno2 que tenha os mesmo parametros que os anteriorer
     }
